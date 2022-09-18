@@ -1,0 +1,7 @@
+Name: THOLE
+<<<<<<< HEAD
+Hobby: GAME, JS, piano
+=======
+Hobby: GAME, piano
+>>>>>>> a3ac6b694c5eab8c518cc56152d5c0532af384e9
+
