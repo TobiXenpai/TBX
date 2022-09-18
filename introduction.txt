@@ -1,3 +1,4 @@
 Name: THOLE
-Hobby: GAME
+Hobby: GAME, JS
+
 
